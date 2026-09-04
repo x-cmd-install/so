@@ -7,7 +7,7 @@ about:
   head: 4969956
   archived: false
   latestVersion: v0.4.10
-  collectedAt: 2026-09-04T19:22:55Z
+  collectedAt: 2026-09-04T21:12:34Z
 timeline:
   created: 2020-05-30
   lastCommit: 2025-06-30
@@ -82,6 +82,49 @@ total:
   openIssue: 12
   commit: 207
 ---
+path: /home/runner/.x-repo/github.com/samtay/so
+collectedAt: 2026-09-04T21:12:36Z
+loc:
+  Rust:
+    code: 2919
+    comments: 103
+    blanks: 287
+    files: 18
+  Html:
+    code: 1653
+    comments: 10
+    blanks: 1887
+    files: 5
+  Sh:
+    code: 187
+    comments: 11
+    blanks: 43
+    files: 4
+  Toml:
+    code: 101
+    comments: 20
+    blanks: 15
+    files: 4
+  Yaml:
+    code: 53
+    comments: 7
+    blanks: 12
+    files: 1
+  PowerShell:
+    code: 16
+    comments: 2
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 248
+    blanks: 89
+    files: 2
+total:
+  code: 5379
+  comments: 551
+  blanks: 2363
+  files: 35
 ---
 date: "2026-08-24"
 repo:
