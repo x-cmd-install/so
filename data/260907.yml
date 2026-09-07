@@ -5,7 +5,7 @@ about:
   head: 4969956
   archived: false
   latestVersion: "v0.4.10"
-  collectedAt: 2026-09-07T04:56:18Z
+  collectedAt: 2026-09-07T19:32:01Z
 timeline:
   created: 2020-05-30
   lastCommit: 2025-06-30
@@ -81,7 +81,7 @@ total:
   commit: 207
 ---
 path: /home/runner/.x-repo/github.com/samtay/so
-collectedAt: 2026-09-07T04:56:21Z
+collectedAt: 2026-09-07T19:32:03Z
 loc:
   Rust:
     code: 2919
@@ -230,7 +230,7 @@ checks:
       - 'Warn: 0 commits out of 22 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:56:22+00:00
+  collectedAt: 2026-09-07T19:32:04+00:00
   platform:
     darwin/arm64:
       name:  so-aarch64-apple-darwin.tar.gz
