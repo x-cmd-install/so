@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6456573,
       "digest": null,
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2024-08-23T12:51:03Z",
       "updated_at": "2024-08-23T12:51:04Z",
       "browser_download_url": "https://github.com/samtay/so/releases/download/v0.4.10/so-aarch64-unknown-linux-gnu.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5722824,
       "digest": null,
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2024-08-23T12:51:11Z",
       "updated_at": "2024-08-23T12:51:11Z",
       "browser_download_url": "https://github.com/samtay/so/releases/download/v0.4.10/so-armv7-unknown-linux-gnueabihf.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6296657,
       "digest": null,
-      "download_count": 167,
+      "download_count": 168,
       "created_at": "2024-08-23T12:50:09Z",
       "updated_at": "2024-08-23T12:50:09Z",
       "browser_download_url": "https://github.com/samtay/so/releases/download/v0.4.10/so-x86_64-unknown-linux-gnu.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6329509,
       "digest": null,
-      "download_count": 420,
+      "download_count": 423,
       "created_at": "2024-08-23T12:51:08Z",
       "updated_at": "2024-08-23T12:51:09Z",
       "browser_download_url": "https://github.com/samtay/so/releases/download/v0.4.10/so-x86_64-unknown-linux-musl.tar.gz"
